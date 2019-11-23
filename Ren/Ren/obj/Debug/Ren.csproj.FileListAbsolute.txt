@@ -1,0 +1,9 @@
+C:\Users\Tim\source\repos\Ren\Ren\bin\Debug\Ren.exe.config
+C:\Users\Tim\source\repos\Ren\Ren\bin\Debug\Ren.exe
+C:\Users\Tim\source\repos\Ren\Ren\bin\Debug\Ren.pdb
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.Form1.resources
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.Properties.Resources.resources
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.csproj.GenerateResource.cache
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.exe
+C:\Users\Tim\source\repos\Ren\Ren\obj\Debug\Ren.pdb
